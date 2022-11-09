@@ -2,7 +2,12 @@
 
 [PureSourceCode.com](https://www.puresourcecode.com/) is my personal blog where I publish posts about technologies and in particular source code and projects in [.NET](https://www.puresourcecode.com/category/dotnet/). 
 
-In the last few months, I created a lot of components for [Blazor WebAssembly](https://www.puresourcecode.com/tag/blazor-webassembly/) and [Blazor Server](https://www.puresourcecode.com/tag/blazor-server/) such as:
+In the last few months, I created a lot of components for [Blazor WebAssembly](https://www.puresourcecode.com/tag/blazor-webassembly/) and [Blazor Server](https://www.puresourcecode.com/tag/blazor-server/).
+
+My name is Enrico Rossini and you can contact me via:
+- [Personal Twitter](https://twitter.com/erossiniuk)
+- [LinkedIn](https://www.linkedin.com/in/rossiniuk)
+- [Facebook](https://www.facebook.com/puresourcecode)
 
 ## Blazor Components
 
